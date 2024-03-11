@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "outDir": "./dist",
+      "strictNullChecks": true
+    },
+    "include": [
+      "./src/**/*",
+      "./*"
+    ],
+    "exclude": [
+        "dist"
+    ]
+}
